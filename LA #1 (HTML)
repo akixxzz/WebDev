@@ -1,0 +1,87 @@
+<html>
+    <head>
+        <title>
+            Brecco
+        </title>
+
+        <link rel="stylesheet" href="style.css">
+        
+       
+    </head>
+
+    <body>
+        <header>
+            <h1>
+                Brecco
+            </h1>
+            <h4>
+                Brecco is a book recommendation hub, offering suggestions for books. It’s the perfect tool for book lovers looking to expand their library. Connect with a community of readers, share recommendations, and never run out of captivating books to read again!
+            </h4>
+        </header>
+        
+        <section>
+            <h2>
+                Books for Kids
+            </h2>
+
+            <ul>
+                <li>
+                    <h3> The Little Prince </h3>
+                    <h5> Novel by Antoine de Saint-Exupéry </h5>
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZWq8UbxSJ5KycY8E5HiMCddiTJh1yg2fgew&s" alt="Little Prince" width="200" height="250">
+                    <p>"The Little Prince" is about a young prince who travels to different planets, learning life lessons about love, friendship, and the importance of seeing with the heart. </p>
+                </li>
+                <li>
+                    <h3> The Phantom Tollbooth </h3>
+                    <h5> Novel by Norton Juster </h5>
+                    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGp2fgTgVUDZr_b8E7dMs49zKufY2-C749rQ&s" alt="The Phantom Tollbooth" width="200" height="250">
+                    <p>"The Phantom Tollbooth" is a whimsical adventure about a boy named Milo who travels through a magical land, encountering strange characters and solving puzzles that teach him valuable life lessons. </p>
+                </li>
+                <li>
+                    <h3> Alice in Wonderland </h3>
+                    <h5> Novel by Lewis Carroll </h5>
+                    <img src = "https://cdn.kobo.com/book-images/e4e4bc3e-6823-47dd-a1e8-262ffb4f98f1/1200/1200/False/alice-s-adventures-in-wonderland-480.jpg" alt="Alice in Wonderland" width="200" height="250">
+                    <p>"Alice's Adventures in Wonderland" is about a girl named Alice who falls into a fantastical world, meeting strange characters and experiencing bizarre adventures that challenge her perception of reality.</p>
+                </li>
+            </ul>
+        </section>
+        
+<h6> a </h6>
+
+        <section>
+            <h2>
+                Books for Teens
+            </h2>
+            
+            <ul>
+                <li>
+                    <h3> The Hunger Games </h3>
+                    <h5> Novel by Suzanne Collins </h5>
+                    <img src = "https://cdn.kobo.com/book-images/fcc61f79-6dc3-4578-a49b-9628deb9ae23/1200/1200/False/the-hunger-games-hunger-games-book-one.jpg" alt="The Hunger Games" width="200" height="250" >
+                    <p> "The Hunger Games" is a dystopian novel about a teenage girl named Katniss Everdeen who must compete in a brutal, televised survival competition where children fight to the death, challenging themes of power, survival, and sacrifice. </p>
+                </li>
+                <li>
+                    <h3> The Maze Runner </h3>
+                    <h5> Novel by James Dashner </h5>
+                    <img src = "https://cdn.kobo.com/book-images/5f4afbce-f9bf-4c87-92b1-806c2f3c7b41/1200/1200/False/the-maze-runner-maze-runner-book-one.jpg" alt="The Maze Runner" width="200" height="250">
+                    <p> "The Maze Runner" is a dystopian novel about a boy named Thomas who wakes up with no memory in a mysterious maze where he and other teens must work together to escape while uncovering the secrets of their captivity. </p>
+                </li>
+                <li>
+                    <h3> Wonder </h3>
+                    <h5> R. J. Palacio </h5>
+                    <img src = "https://m.media-amazon.com/images/I/71Q1KDTHXLL._AC_UF350,350_QL50_.jpg" alt="Wonder" width="200" height="250">
+                    <p>"Wonder" is a heartwarming story about a boy named Auggie with a facial difference who, while attending school for the first time, teaches his classmates—and readers—about empathy, kindness, and acceptance.</p>
+                </li>
+                
+            </ul>
+        </section>
+        
+        <h5> For movie recommendation: visit <a href="https://www.imdb.com/list/ls063596142/">IMDb</a></h5>
+    </body>
+
+    <footer>
+        <p>BSIT 3-1 - Group 3</p>
+        <p>Malinay, Angela C. | Piñon, Tommy M. | Ramos, Jenna Nadine D. | Samia, Anhelov B. | Silo, Lucky P.</p>
+    </footer>
+
+</html>
